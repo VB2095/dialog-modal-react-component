@@ -1,13 +1,13 @@
-# modal-dialog-react-component
+# dialog-modal-react-component
 
 > A React component for a modal made with dialog html element
 
-[![NPM](https://img.shields.io/npm/v/modal-dialog-react-component.svg)](https://www.npmjs.com/package/modal-dialog-react-component) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/dialog-modal-react-component.svg)](https://www.npmjs.com/package/dialog-modal-react-component) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save modal-dialog-react-component
+npm install --save dialog-modal-react-component
 ```
 
 ## Usage
