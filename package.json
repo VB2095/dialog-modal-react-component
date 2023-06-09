@@ -1,6 +1,6 @@
 {
     "name": "dialog-modal-react-component",
-    "version": "0.0.1",
+    "version": "0.0.4",
     "description": "Modal dialog component for React",
     "main": "./lib/modalDialog.js",
     "license": "MIT",
@@ -8,6 +8,7 @@
         "type": "git",
         "url": "git+https://github.com/VB2095/dialog-modal-react-component.git"
       },
+      "keywords": [ "modal", "dialog", "react", "component" ],
     "scripts": {
         "build": "webpack"
     },
