@@ -4,6 +4,13 @@
 
 [![NPM](https://img.shields.io/npm/v/dialog-modal-react-component.svg)](https://www.npmjs.com/package/dialog-modal-react-component) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+## Prerequisites
+
+Before installing and using this component, make sure you have the following prerequisites installed:
+
+- [Node.js](https://nodejs.org): Please install Node.js (version 12.0.0 or higher) on your system.
+- [React](https://reactjs.org): Make sure you have a React application ready to use. If you haven't created a React project yet, you can do so using the `create-react-app` command-line, tool. Or you can use your preferred method of React installation. 
+
 ## Install
 
 ```bash

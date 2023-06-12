@@ -1,5 +1,8 @@
 {
     "name": "dialog-modal-react-component",
+    "author": {
+        "name": "VB2095"
+    },
     "version": "0.0.4",
     "description": "Modal dialog component for React",
     "main": "./lib/modalDialog.js",
